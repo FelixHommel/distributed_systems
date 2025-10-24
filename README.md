@@ -6,3 +6,8 @@ Distributed Systems @ Ulm University in WS 2025/26
 
 - Echo client
 - Math expression evaluation client
+
+## Task 2
+
+- Number Guessing Game
+- Factorization Challenge
